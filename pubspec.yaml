@@ -1,7 +1,8 @@
 name: install_plugin_v2
 description: A flutter plugin for install apk for android;
 version: 1.0.1
-homepage: https://github.com/youxiachai/flutter_install_plugin
+homepage: https://github.com/Yongle-Fu/flutter_install_plugin
+publish_to: https://dart-pub.brainco.cn
 
 environment:
   sdk: ">=2.18.0 <4.0.0"
